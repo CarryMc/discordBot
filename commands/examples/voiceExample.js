@@ -11,10 +11,10 @@ class commandVoiceExample extends COMMANDO.Command {
                 name: 'voice',
                 
                 //the group that the command is part of should be the same name as the folder command is in
-                group: 'voice',
+                group: 'examples',
 
                 //make this the same as name
-                memberName: 'examples',
+                memberName: 'voice',
 
                 //what the command does
                 description: 'Plays ben in example sound in voice channel',
