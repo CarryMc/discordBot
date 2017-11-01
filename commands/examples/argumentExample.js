@@ -24,37 +24,42 @@ class commandArgsExample extends COMMANDO.Command {
 
                 //arguments
                 args: [
-                    
+                //first part
                     {
-                        //name of user is entering its a variable
+                        //what we call the what the user inputs it is a variable
                         key: 'user',
 
-                        //what bot tells user to do if they just call command in this case //dm
-                        prompt: 'input user name that you want to send a message to.',
+                        //what the bot tells the user to do
+                        prompt: '@ the user you want to dm',
 
-                        //what discord should recoginze the entered data as
-                        type: 'user',
+                        //what discord should take data as
+                        type: 'user'
                     },
+
+                //second part
                     {
-                        //name of user is entering its a variable
-                        key: 'message',
 
-                        //what bot tells user to do if they just call command in this case //dm @someone
-                        prompt: 'enter message',
+                        //what we call the what the user inputs it is a variable
+                        key: 'input',
 
-                        //what discord should recoginze the entered data as
-                        type: 'String'
+                         //what the bot tells the user to do
+                        prompt: 'please input message',
+
+                        //what discord should take data as
+                        type: 'string'
                     }
                 ]
             });
     }
 
-    //run notice that we include the key names here
-    run({ user, message }) {
+    //run command
+    run(message, { user, input }) {
 
-        //text to send to user DM
-        user.send(message);
+        //sends message to user dm
+        user.send(input);
 
+        //deletes command call for clean up
+        message.delete();
     }
 }
 
