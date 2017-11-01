@@ -50,7 +50,11 @@ Open the github on your desktop and sign in. After this click on file and make a
 
 # Step 7 : linking heroku to your gitHub
 
-Go to your heroku account and make a new app give it a name. To the left of Deployment method you should see gitHub click on that and click your account. Next push the search button and click conenct next to the repository you made. If you never have used git before its the only one. Now push enable automatic deploys, then scroll down and click deploy branch wait for it to finish.
+Go to your heroku account and make a new app give it a name. To the left of Deployment method you should see gitHub click on that and click your account. Next push the search button and click conenct next to the repository you made. If you never have used git before its the only one. In the top right conner there is a button called more. Click on it and in the drop down click run console. Copy and past the following command into it: 
+
+npm install discord.js opusscript --save.
+
+Wait for the console to finish running Now push enable automatic deploys, then scroll down and click deploy branch wait for it to finish.
 
 
 
