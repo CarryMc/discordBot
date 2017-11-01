@@ -38,7 +38,7 @@ class commandFlipExample extends COMMANDO.Command {
 
         //if flip is anything but 1
         else {
-            //text to send
+            //reply includes @user to whom sent the message
             message.reply("It landed on Heads")
         }
 

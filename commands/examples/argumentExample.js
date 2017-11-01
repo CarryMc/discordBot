@@ -43,7 +43,7 @@ class commandArgsExample extends COMMANDO.Command {
                         prompt: 'enter message',
 
                         //what discord should recoginze the entered data as
-                        type: 'string'
+                        type: 'String'
                     }
                 ]
             });

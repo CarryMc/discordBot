@@ -30,7 +30,7 @@ class commandImage extends COMMANDO.Command {
         //put image in images folder and put name of it after the /
         var post = './images/';
 
-        //posts gif
+        //posts gif or image
         message.channel.send({ files: [post] });
 
         //deletes command call

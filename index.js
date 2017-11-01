@@ -70,9 +70,10 @@ BOT_COMMANDO
 BOT_COMMANDO.registry.registerDefaultTypes()
     .registerGroups([
 
-    //things in brackets are command group names which folder they are in look at readME for more info
+    //things in brackets are command group names which folder they are in for just copy the format and make a folder in commands
         ['examples', 'Examples'],
         ['user', 'User']
+        //[edit]
 
     ]).registerDefaultGroups().
 

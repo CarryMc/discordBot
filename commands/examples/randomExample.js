@@ -47,7 +47,7 @@ class commandRandomExample extends COMMANDO.Command {
         message.channel.send(textPost);
 
         //gets random item from the array
-        var filePost = exampleArrayImages[Math.floor(Math.random() * exampleArrayImages.length)];
+        var filePost = exampleArrayImages[{ files: [Math.floor(Math.random() * exampleArrayImages.length)] }];
 
         //sends image to notice that the text inside the parentheses is not in single quotes because it is a variable
         message.channel.send(filePost);
