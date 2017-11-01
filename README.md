@@ -8,7 +8,7 @@ As one would expect you need an account for discord if you do not have one make 
 
 Next you will need an account to the cloud hosting service Heroku. Make one here: https://signup.heroku.com/login
 
-Laslty you need a github account if you do not already have one. Make one here: 
+Laslty you need a github account if you do not already have one. Make one here: https://github.com/join
 
 Thats all you need onto step two.
 
