@@ -85,3 +85,7 @@ https://www.youtube.com/watch?v=9CDPw1lCkJ8&list=PLvPDrwa-DApc1k3mHRJgolfStXyNi5
 https://anidiotsguide.gitbooks.io/discord-js-bot-guide/ - goes over some more things about discord.js
 
 https://discordapp.com/invite/bRCvFy9 - the discord.js server people over here can help you
+
+https://discordapp.com/invite/rV4BwdK - has discord.js section and people can help you over here too
+
+https://discordapp.com/developers/docs/intro - discords offical API and stuff
