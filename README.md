@@ -60,7 +60,7 @@ At the top of the page click the resource tab. Wait for the page to load then re
 
 YAAAAAAAAAAAAAAAAAAAAAAAA :)
 
-# Time We went are Own Ways
+# Time we went are own ways
 
 Well it was fun open the folder look around all the code is commented and there are prebuilt skeltons of code that you can finish. I put [edit] next to code that you can change and the program won't crash. However you can ignore these if you wish to do so. Laslty when you make an edit to the code you can push it to gitHub using the desktop application like before. Heroku will auto update your code and deploy it as soon as you do this it takes around 2 minuties for it to finish to entire proccess. Note that since we used commando in are code there are somethings you have to do. Every command has to be in its own file, a file name could be: example.js, it just needs to have .js after it which means its a javascript file. When making a new command just copy and past the commands that are prebuilt and change the name and output. Commando also uses groups to read commands so put all your commands in the user folder if you do not want to mess around with that stuff.
 
