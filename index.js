@@ -1,5 +1,5 @@
 //Put token in the single quotes
-const TOKEN = 'Mzc1MTA0NjU2NjQyNDA4NDUw.DNrAIg.Odral9CHviNycK5P9Cktb2xueX8';  //[edit]
+const TOKEN = '';  //[edit]
 const OWNERID = '';  //[edit]
 
 //path to files and stuff do not touch
