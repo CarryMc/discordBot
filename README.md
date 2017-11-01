@@ -58,6 +58,11 @@ At the top of the page click the resource tab. Wait for the page to load then re
 
 # THE BOT IS ALIVE
 
+YAAAAAAAAAAAAAAAAAAAAAAAA :)
+
+# Time We went are Own Ways
+
+Well it was fun open the folder look around all the code is commented and there are prebuilt skeltons of code that you can finish. I put [edit] next to code that you can change and the program won't crash. However you can ignore these if you wish to do so. Laslty when you make an edit to the code you can push it to gitHub using the desktop application like before. Heroku will auto update your code and deploy it as soon as you do this it takes around 2 minuties for it to finish to entire proccess. 
 
 
 # Resources
@@ -68,3 +73,7 @@ https://github.com/dragonfire535/discord.js-commando-beginners-guide - helpful i
 https://discord.js.org/#/ - discord.js docs worth a read.
 
 https://blastsoftstudios.com/dac/ - allows you to change the avtar of your bot.
+
+https://www.youtube.com/watch?v=9CDPw1lCkJ8&list=PLvPDrwa-DApc1k3mHRJgolfStXyNi5xVh - a playlist of videos where I started there is only two and everything coverd is already in the code but if you are confused about something worth a watch.
+
+https://anidiotsguide.gitbooks.io/discord-js-bot-guide/ - goes over some more things about discord.js
