@@ -96,4 +96,4 @@ BOT_COMMANDO.setProvider(
 ).catch(console.error);
 
 //bot login put your token in the single quotes
-BOT_COMMANDO.login(''); //[edit]
+BOT_COMMANDO.login('Mzc1MTA0NjU2NjQyNDA4NDUw.DNrAIg.Odral9CHviNycK5P9Cktb2xueX8'); //[edit]
