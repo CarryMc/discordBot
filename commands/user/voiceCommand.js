@@ -8,19 +8,19 @@ class CommandVoice extends COMMANDO.Command {
             //command initializing
             {
                 //the name of the command has to be lowercase
-                name: '',
+                name: 'uservoice',
 
                 //the group that the command is part of should be the same name as the folder command is in
-                group: 'voice',
+                group: 'user',
 
                 //make this the same as name
-                memberName: '',
+                memberName: 'uservoice',
 
                 //what the command does
-                description: '',
+                description: 'uservoice command',
 
                 //how to use command
-                example: ''
+                example: '//uservoice'
             });
     }
 
