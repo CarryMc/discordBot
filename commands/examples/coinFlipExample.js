@@ -17,7 +17,7 @@ class commandFlipExample extends COMMANDO.Command {
                 memberName: 'coinflip',
 
                 //what the command does
-                description: 'Flips a coin',
+                description: 'flips a coin',
 
                 //how to use command
                 example: '//coinflip'
