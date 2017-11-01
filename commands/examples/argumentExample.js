@@ -30,7 +30,7 @@ class commandArgsExample extends COMMANDO.Command {
                         key: 'user',
 
                         //what bot tells user to do if they just call command in this case //dm
-                        prompt: 'input user name that you want to roast.',
+                        prompt: 'input user name that you want to send a message to.',
 
                         //what discord should recoginze the entered data as
                         type: 'user',
