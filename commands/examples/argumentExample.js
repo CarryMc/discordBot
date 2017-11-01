@@ -50,7 +50,7 @@ class commandArgsExample extends COMMANDO.Command {
     }
 
     //run notice that we include the key names here
-    run(message, { user, message }) {
+    run({ user, message }) {
 
         //text to send to user DM
         user.send(message);
