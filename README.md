@@ -1,5 +1,5 @@
 # discordBot
-I made a bot for my discord and put it on my server in three days. While I was coding the bot I found a lack of resources on how to use discord.js commando and how to set a bot up on a server for free. I am now trying to fill this gap with this bot. This document will walk you through from start to finish on how to make a bot in discord. I just started learning node.js and using discord.js so I am new at this too. I expect you to know how to use a computer, make accounts, and download programs lets begin.
+Hello, I made a bot for my discord and put it on my server in three days. While I was coding the bot I found a lack of resources on how to use discord.js commando and how to set a bot up on a server for free. I am now trying to fill this gap with this bot. This document will walk you through from start to finish on how to make a bot in discord. I just started learning node.js and using discord.js so I am new at this too. I expect you to know how to use a computer, make accounts, and download programs lets begin.
 
 # Step 1 : Accounts
 first you will need a couple of accounts to some services.
@@ -50,12 +50,25 @@ Open the github on your desktop and sign in. After this click on file and make a
 
 # Step 7 : linking heroku to your gitHub
 
-Go to your heroku account and make a new app give it a name. To the left of Deployment method you should see gitHub click on that and click your account. Next push the search button and click conenct next to the repository you made. If you never have used git before its the only one. In the top right conner there is a button called more. Click on it and in the drop down click run console. Copy and past the following command into it: 
+Go to your heroku account and make a new app give it a name. To the left of Deployment method you should see gitHub click on that and click your account. Next push the search button and click conenct next to the repository you made. If you never have used git before its the only one. NOw clikc enable automatic deploys and scroll down and click deploy branch wait for it to finish.
 
-npm install discord.js opusscript --save.
+# Step 8 : Turn the bot On
 
-Wait for the console to finish running Now push enable automatic deploys, then scroll down and click deploy branch wait for it to finish.
+At the top of the page click the resource tab. Wait for the page to load then refresh the page. You should see web something and worker something. Click on the pencil next to right of web and turn it off. Click on the pencil to the right of worker and turn it on. Make sure to push confirm for both of theses.
 
+# THE BOT IS ALIVE
+
+YAAAAAAAAAAAAAAAAAAAAAAAA :)
+
+# Time we went are own ways
+
+Well it was fun open the folder look around all the code is commented and there are prebuilt skeltons of code that you can finish. I put [edit] next to code that you can change and the program won't crash. However you can ignore these if you wish to do so. Laslty when you make an edit to the code you can push it to gitHub using the desktop application like before. Heroku will auto update your code and deploy it as soon as you do this it takes around 2 minuties for it to finish to entire proccess. Note that since we used commando in are code there are somethings you have to do. Every command has to be in its own file, a file name could be: example.js, it just needs to have .js after it which means its a javascript file. When making a new command just copy and past the commands that are prebuilt and change the name and output. Commando also uses groups to read commands so put all your commands in the user folder if you do not want to mess around with that stuff.
+
+# Final Comments
+
+Below are somethings that might help you. See ya around maybe. 
+
+"We started with a simple hello, but ended with a complicated goodbye."
 
 
 # Resources
@@ -66,3 +79,7 @@ https://github.com/dragonfire535/discord.js-commando-beginners-guide - helpful i
 https://discord.js.org/#/ - discord.js docs worth a read.
 
 https://blastsoftstudios.com/dac/ - allows you to change the avtar of your bot.
+
+https://www.youtube.com/watch?v=9CDPw1lCkJ8&list=PLvPDrwa-DApc1k3mHRJgolfStXyNi5xVh - a playlist of videos where I started there is only two and everything coverd is already in the code but if you are confused about something worth a watch.
+
+https://anidiotsguide.gitbooks.io/discord-js-bot-guide/ - goes over some more things about discord.js
