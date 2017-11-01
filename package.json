@@ -1,7 +1,7 @@
 {
   "name": "botmadebyjewgamer",
   "version": "0.0.0",
-  "description": "",
+  "description": "I made a bot for my discord and put it on my server in three days. While I was coding the bot I found a lack of resources on how to use discord.js commando and how to set a bot up on a server for free. I am now trying to fill this gap with this bot. This document will walk you through from start to finish on how to make a bot in discord. I just started learning node.js and using discord.js so I am new at this too. I expect you to know how to use a computer, make accounts, and download programs lets begin.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -20,5 +20,14 @@
     "node-random": "^1.0.1",
     "opusscript": "0.0.4",
     "sqlite": "^2.8.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheJewGamer/discordBot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TheJewGamer/discordBot/issues"
+  },
+  "homepage": "https://github.com/TheJewGamer/discordBot#readme"
 }
