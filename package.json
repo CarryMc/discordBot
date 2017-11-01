@@ -1,8 +1,5 @@
 {
-  //name is name of the program not name of the bot change if you want but must also change name in package-lock.json
-  "name": "botmadebyjewgamer", //[edit]
-
-  //do not touch anything below this comment
+  "name": "botmadebyjewgamer",
   "version": "0.0.0",
   "description": "",
   "main": "index.js",
