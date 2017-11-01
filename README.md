@@ -46,7 +46,11 @@ Using the IDE you downloaded be it visual Studio Code or Atom open the git in it
 
 # Step 6 : Uploading to gitHub
 
-Open the github on your desktop and sign in. After this click 
+Open the github on your desktop and sign in. After this click on file and make a new repository. Now using your file explorer open the discordBot folder and copy the files to where you put the repository. Now in gitHub for desktop give put something in for summary in the bottom left and click commit to master. Now on the top ribbon it should say push click it wait till it done then check your gitHub account online it should have the repository.
+
+# Step 7 : linking heroku to your gitHub
+
+Go to your heroku account and make a new app give it a name. To the left of Deployment method you should see gitHub click on that and click your account. Next push the search button and click conenct next to the repository you made. If you never have used git before its the only one. Now push enable automatic deploys, then scroll down and click deploy branch wait for it to finish.
 
 
 
