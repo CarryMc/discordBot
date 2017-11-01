@@ -1,4 +1,6 @@
-
+//Put token in the single quotes
+const TOKEN = 'Mzc1MTA0NjU2NjQyNDA4NDUw.DNrAIg.Odral9CHviNycK5P9Cktb2xueX8';  //[edit]
+const OWNERID = '';  //[edit]
 
 //path to files and stuff do not touch
 const COMMANDO = require('discord.js-commando');
@@ -9,11 +11,11 @@ const commando = require('./src');
 //makes new bot
 const BOT_COMMANDO = new COMMANDO.Client({
 
-    //what you user need to type infront of command
+    //what you need to type infront of command
     commandPrefix: '//', //[edit]
 
     //who owns the bot, put your id here look how to do this in readMe
-    owner: id = '', //[edit]
+    owner: id = OWNERID,
 
     //prevents bot from doing @everyone make false if you want bot to be able to do this
     disableEveryone: true, //[edit]
@@ -70,7 +72,7 @@ BOT_COMMANDO.registry.registerDefaultTypes()
 
     //things in brackets are command group names which folder they are in look at readME for more info
         ['examples', 'Examples'],
-        ['user','User']
+        ['user', 'User']
 
     ]).registerDefaultGroups().
 
@@ -93,4 +95,4 @@ BOT_COMMANDO.setProvider(
 ).catch(console.error);
 
 //bot login put your token in the single quotes
-BOT_COMMANDO.login('Mzc1MTA0NjU2NjQyNDA4NDUw.DNrAIg.Odral9CHviNycK5P9Cktb2xueX8'); //[edit]
+BOT_COMMANDO.login(TOKEN); //[edit]
