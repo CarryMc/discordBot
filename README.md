@@ -80,6 +80,12 @@ https://discord.js.org/#/ - discord.js docs worth a read.
 
 https://blastsoftstudios.com/dac/ - allows you to change the avtar of your bot.
 
-https://www.youtube.com/watch?v=9CDPw1lCkJ8&list=PLvPDrwa-DApc1k3mHRJgolfStXyNi5xVh - a playlist of videos where I started there is only two and everything coverd is already in the code but if you are confused about something worth a watch.
+https://www.youtube.com/watch?v=9CDPw1lCkJ8&list=PLvPDrwa-DApc1k3mHRJgolfStXyNi5xVh - a playlist of videos where I started there is only two and everything covered is already in the code but if you are confused about something worth a watch.
 
 https://anidiotsguide.gitbooks.io/discord-js-bot-guide/ - goes over some more things about discord.js
+
+https://discordapp.com/invite/bRCvFy9 - the discord.js server people over here can help you
+
+https://discordapp.com/invite/rV4BwdK - has discord.js section and people can help you over here too
+
+https://discordapp.com/developers/docs/intro - discords offical API and stuff
