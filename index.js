@@ -1,7 +1,4 @@
-/*PublicBot
-*Index
-*Made by TheJewGamer
-*/
+
 
 //path to files and stuff do not touch
 const COMMANDO = require('discord.js-commando');
