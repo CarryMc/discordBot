@@ -1,5 +1,5 @@
 # discordBot
-I made a bot for my discord and put it on my server in three days. While I was coding the bot I found a lack of resources on how to use discord.js commando and how to set a bot up on a server for free. I am now trying to fill this gap with this bot. This document will walk you through from start to finish on how to make a bot in discord. I just started learning node.js and using discord.js so I am new at this too. I expect you to know how to use a computer, make accounts, and download programs lets begin,
+I made a bot for my discord and put it on my server in three days. While I was coding the bot I found a lack of resources on how to use discord.js commando and how to set a bot up on a server for free. I am now trying to fill this gap with this bot. This document will walk you through from start to finish on how to make a bot in discord. I just started learning node.js and using discord.js so I am new at this too. I expect you to know how to use a computer, make accounts, and download programs lets begin.
 
 # Step 1 : Accounts
 first you will need a couple of accounts to some services.
