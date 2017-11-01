@@ -50,11 +50,13 @@ Open the github on your desktop and sign in. After this click on file and make a
 
 # Step 7 : linking heroku to your gitHub
 
-Go to your heroku account and make a new app give it a name. To the left of Deployment method you should see gitHub click on that and click your account. Next push the search button and click conenct next to the repository you made. If you never have used git before its the only one. In the top right conner there is a button called more. Click on it and in the drop down click run console. Copy and past the following command into it: 
+Go to your heroku account and make a new app give it a name. To the left of Deployment method you should see gitHub click on that and click your account. Next push the search button and click conenct next to the repository you made. If you never have used git before its the only one. NOw clikc enable automatic deploys and scroll down and click deploy branch wait for it to finish.
 
-npm install discord.js opusscript --save.
+# Step 8 : Turn the bot On
 
-Wait for the console to finish running Now push enable automatic deploys, then scroll down and click deploy branch wait for it to finish.
+At the top of the page click the resource tab. Wait for the page to load then refresh the page. You should see web something and worker something. Click on the pencil next to right of web and turn it off. Click on the pencil to the right of worker and turn it on. Make sure to push confirm for both of theses.
+
+# THE BOT IS ALIVE
 
 
 
